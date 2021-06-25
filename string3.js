@@ -1,3 +1,4 @@
-const somestring= 'this is a string'
-console.log(somestring);
+let example='some string'
+console.log(example)
+
 
